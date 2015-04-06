@@ -8,9 +8,11 @@ public class FirstGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Ol· Git!!!");
+		System.out.println("Ol√° Git!!!");
 		
-		System.out.println("Testando a segunda modificaÁ„o.");
+		System.out.println("Testando a segunda modifica√ß√£o.");
+		
+		System.out.println("Testando a terceira modifica√ß√£o.");
 
 	}
 
